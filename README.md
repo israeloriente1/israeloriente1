@@ -1,11 +1,14 @@
 ## Olá, me chamo Israel 👋 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="computer design">
 
-<p>Desenvolvedor Full Stack com habilidades nas linguagens back end como PHP, banco de dados relacional (MySQL e MariaDB), e também nas seguintes linguagens front end como JavaScript, HTML5 e CSS3, além de outros conhecimento como GitHub e Photoshop.</p>
+<p>Sou um estudante e desenvolvedor Full Stack com habilidades nas linguagens back end como PHP, banco de dados relacional como MySQL, e também nas seguintes linguagens front end como JavaScript, HTML5 e CSS3.</p>
 
-<p>Apaixonado pela a área e em constante estudo para evoluir e adquirir cada vez mais conhecimentos.</p> 
-
-<p>Um bom nível de comunicação e interação no trabalho em equipe, juntamente de uma capacidade analítica, inteligência emocional, percepção social, ética e valores morais no qual colaboram para resoluções de diversos problemas e projetos.</p>
+#### Além de outros conhecimentos e habilidades como:
+* Criação e edições de imagem através do Adobe Photoshop
+* Utilização de bibliotecas front end e back end
+* Bom nível de comunicação e interação no trabalho em equipe
+* Capacidade analítica
+* Conhecimento prévio em hardwares
   
  <p align="left">
   <a href="https://www.linkedin.com/in/israeloriente/" target="_blank" alt="linkedin design">
