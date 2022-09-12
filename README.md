@@ -4,7 +4,7 @@
 <p>Sou um estudante e desenvolvedor Full Stack com habilidades nas linguagens back end como PHP, banco de dados relacional como MySQL, e também nas seguintes linguagens front end como JavaScript, HTML5 e CSS3.</p>
 
 #### Além de outros conhecimentos e habilidades como:
-* Criação e edições de imagem através do Adobe Photoshop
+* Criação de layouts através do Figma
 * Utilização de bibliotecas front end e back end
 * Bom nível de comunicação e interação no trabalho em equipe
 * Capacidade analítica
